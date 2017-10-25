@@ -8,3 +8,11 @@ $ npm install
 ```
 $ npm run dev
 ```
+
+### Dependencies
+- angularjs 1.6.x
+- ui-router
+- ui-bootstrap
+- bootstrap 3.7.x
+- font-awesome
+- lodash
